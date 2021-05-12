@@ -1,3 +1,5 @@
+PHP ERROR GAME
+
 <?php
 /**
  * CodeIgniter
